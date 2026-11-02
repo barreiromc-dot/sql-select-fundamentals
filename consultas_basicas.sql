@@ -1,6 +1,7 @@
 -- ==========================================
 -- TechStore - Consultas Básicas SELECT
 -- Autor: Cecilia Barreiro
+-- Fecha: 02/11/2026
 -- ==========================================
 
 -- Consulta 1: Exploración general de la tabla sales
