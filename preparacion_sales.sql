@@ -1,5 +1,5 @@
 -- ==========================================
--- TechStore - Consultas Básicas SELECT
+-- TechStore - Preparación de Datos
 -- Autor: Cecilia Barreiro
 -- Fecha: 02/11/2026
 -- ==========================================
