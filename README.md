@@ -1,3 +1,14 @@
+## Instrucciones de ejecución
+
+Este proyecto utiliza SQL Server y puede ejecutarse desde SQL Server Management Studio (SSMS).
+
+1. Abrir el archivo `preparacion_sales.sql` y ejecutarlo para crear la base de datos `SQL_Select_Fundamentals`, la tabla `sales` y cargar los 10 registros de ejemplo.
+2. Abrir el archivo `consultas_basicas.sql`.
+3. Seleccionar la base de datos `SQL_Select_Fundamentals` y ejecutar las tres consultas SELECT.
+4. Verificar que cada consulta devuelva 10 registros y las columnas solicitadas.
+
+**Nota:** Ejecutar primero `preparacion_sales.sql` porque las consultas necesitan que la tabla `sales` exista.
+
 ## ¿Por qué no se recomienda utilizar SELECT * en producción?
 
 Aunque `SELECT *` es útil para explorar una tabla y conocer su estructura, no es recomendable utilizarlo habitualmente en consultas de producción.
